@@ -1,0 +1,8 @@
+name
+rool number
+addreees
+college name
+branch
+year 
+pass/faild
+markes
